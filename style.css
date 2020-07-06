@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  ;
+    background-color: lightgrey;
+}
+
+.text{
+    color:#68576b;
+    text-align: center;
+    
+}
+
+
+.image{
+    height: 500px;
+    width: 700px;
+    padding: 0 auto;
+    margin: 0 auto;
+    
+}
+.container{
+    margin: 0 auto;
+    width: 1200px;
+    
+}
+h4{
+    text-align: end;
+}
+.box{
+    display: inline-block;
+}
+.center{
+    text-align: center;
+    padding-top: 150px;
+}
+.somchay{
+    height: auto;
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+section{
+    margin-right: 0 auto;
+    width: 200;
+    padding-top: 50px;
+    color: #68576b;
+}
+span{
+    padding-left: 20px;
+}
